@@ -2,5 +2,6 @@
 
 ```
 pip install -r requirements.txt
-jupyter notebook
+python app.py
 ```
+
